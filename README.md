@@ -6,6 +6,8 @@ Curated list of templates for [Template](https://github.com/fabiospampinato/temp
 ## Templates
 
 - [template-alfred-workflow](https://github.com/fabiospampinato/template-alfred-workflow) - A template for starting a new Alfred workflow quickly.
+- [template-autogit-command](https://github.com/fabiospampinato/template-autogit-command) - A template for starting a new autogit command quickly.
+- [template-autogit-plugin](https://github.com/fabiospampinato/template-autogit-plugin) - A template for starting a new autogit plugin quickly.
 - [template-chrome-extension](https://github.com/fabiospampinato/template-chrome-extension) - A template for starting a new Chrome extension quickly.
 - [template-electron](https://github.com/fabiospampinato/template-electron) - A template for starting a new electron app quickly.
 - [template-lambda-claudia](https://github.com/fabiospampinato/template-lambda-claudia) - A template for starting a new lambda quickly.
